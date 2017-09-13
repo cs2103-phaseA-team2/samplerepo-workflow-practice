@@ -5,3 +5,5 @@ This is a team repo for members of the team {Team ID}
 * [Jane Doe](members/janeDoe.md)
 * [John Doe](members/johnDoe.md)
 * [Sun Shengran](members/SunShengran.md)
+* [Chan Jian Hui](members/jianhuiChan.md)
+* [Jeffrey Goh](members/jeffreyGoh.md)
